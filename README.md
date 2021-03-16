@@ -4,7 +4,7 @@
 ### How to use:
 •	Import as existing workspace in STM32CubeIDE
 •	Compile the project 
-•	Flash into the board.
+•	Flash into the board
 •	Connect board with Tera Term or any Hyperterminal
 •	Set BaudRate “9600”
 
